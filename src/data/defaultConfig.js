@@ -47,15 +47,15 @@
   ],
   photos: [
     {
-      src: "",
+      src: "/foto1.jpg.jpeg",
       caption: "A soft moment"
     },
     {
-      src: "",
+      src: "/foto2.jpg.jpeg",
       caption: "favorite memory"
     },
     {
-      src: "",
+      src: "/foto3.jpg.jpeg",
       caption: "Somewhere we laughed"
     }
   ],
