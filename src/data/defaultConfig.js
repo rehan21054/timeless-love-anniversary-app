@@ -1,52 +1,46 @@
 ﻿export const defaultConfig = {
-  creatorName: "Romeo",
-  partnerName: "Juliet",
-  anniversaryDate: "2020-02-14",
+  creatorName: "Raihan",
+  partnerName: "Naya",
+  anniversaryDate: "2024-03-10",
   shortLetter:
     "To my favorite human, thank you for turning ordinary days into glow moments.",
   longLetter:
-    "My love,\n\nEvery chapter with you feels like a gentle sunrise. I love the way you notice tiny details, the way you make silence feel safe, and the way your laugh spills into my day. This gift is a small memory box for us — a reminder that our story is still unfolding, softly and beautifully.\n\nForever yours.",
+    "My love,\n\nEvery chapter with you feels like a gentle sunrise. I love the way you pay attention to the little details, the way you turn silence into comfort every day.This gift is a small memory box for us — a reminder that our story is still unfolding, softly and beautifully.\n\nForever yours.",
   letterMode: "long",
   timeline: [
     {
       title: "First Meet",
-      date: "2019-08-14",
+      date: "2023-02-forget",
       emoji: "💫",
-      description: "The day the universe decided we should orbit each other."
+      description: "I saw you from my friend's story."
     },
     {
-      title: "First Talk",
-      date: "2019-08-16",
+      title: "First Chat",
+      date: "2022-11-15",
       emoji: "💬",
-      description: "We talked for hours, and time forgot to move."
+      description: "while I was waiting for you to reply to my chat."
     },
     {
       title: "First Photo",
-      date: "2019-09-03",
+      date: "2024-02-20",
       emoji: "📸",
       description: "That snapshot still feels like a warm hug."
     },
     {
-      title: "First Trip",
-      date: "2020-01-12",
-      emoji: "🌍",
-      description: "A tiny adventure that felt like a forever memory."
-    },
-    {
-      title: "First Fight",
-      date: "2020-04-10",
-      emoji: "😅",
-      description: "We learned how to choose each other again."
+      title: "First Give",
+      date: "2024-04-29",
+      emoji: "🎁",
+      description: "first give from you."
     },
     {
       title: "Today",
-      date: "2026-02-09",
+      date: "2026-03-010",
       emoji: "❤️",
       description: "Still choosing you, every single day."
     },
     {
       title: "Forever",
-      date: "2030-02-14",
+      date: "2026-03-10",
       emoji: "♾️",
       description: "A promise that keeps blooming."
     }
@@ -58,7 +52,7 @@
     },
     {
       src: "",
-      caption: "Our favorite memory"
+      caption: "favorite memory"
     },
     {
       src: "",
@@ -81,7 +75,7 @@
     {
       title: "Travel",
       icon: "✈️",
-      description: "Collecting sunsets, city lights, and handwritten postcards."
+      description: "Collecting sunsets, city lights, and flower garden."
     },
     {
       title: "Life Goals",
