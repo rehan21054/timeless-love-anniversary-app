@@ -51,7 +51,7 @@
       caption: "A soft moment"
     },
     {
-      src: "/foto2.jpg.jpeg",
+      src: "/foto4.jpeg",
       caption: "favorite memory"
     },
     {
