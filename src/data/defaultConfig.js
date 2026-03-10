@@ -96,7 +96,7 @@
     password: ""
   },
   music: {
-    source: "",
+    source: "/tulus.mp3",
     volume: 0.6
   }
 };
