@@ -10,7 +10,7 @@
   timeline: [
     {
       title: "First Meet",
-      date: "2023-02-forget",
+      date: "2022-02-forget",
       emoji: "💫",
       description: "I saw you from my friend's story."
     },
