@@ -48,15 +48,18 @@
   photos: [
     {
       src: "/foto1.jpg.jpeg",
-      caption: "A soft moment"
+      caption: "A soft moment",
+      note: "I'm so lucky to have you."
     },
     {
-      src: "/foto4.jpeg",
-      caption: "favorite memory"
+      src: "/foto2.jpg.jpeg",
+      caption: "Our favorite memory",
+      note: "Thank you for being by my side."
     },
     {
       src: "/foto3.jpg.jpeg",
-      caption: "Somewhere we laughed"
+      caption: "Somewhere we laughed",
+      note: "Your laugh is my favorite sound."
     }
   ],
   promises: [
